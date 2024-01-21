@@ -1,0 +1,3 @@
+C:/Users/Dari/Desktop/IS/domashno2/cmake-build-debug/CMakeFiles/domashno2.dir
+C:/Users/Dari/Desktop/IS/domashno2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dari/Desktop/IS/domashno2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
